@@ -37,5 +37,5 @@ Thanks to the RobustNet and TSMLDG implementations.
 ## T-sne plots of [PintheMemory](https://github.com/Genie-Kim/PintheMemory)
 In the left part, different colors represent different classes, and in the right part, different colors represent different domains. As shown, the method in this paper is well at learning domain-invariant representation.
 <p align="center">
-  <img src="assets/tsneplot(GSCB).png" width="500"/>
+  <img src="tsneplot(GSCB).png" width="500"/>
 </p>
